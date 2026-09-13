@@ -5,7 +5,7 @@
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat-square)
  
-🎮 **Play it:** [allo77.itch.io/storm-woods](https://allo77.itch.io/storm-woods)
+**Play it:** [allo77.itch.io/storm-woods](https://allo77.itch.io/storm-woods)
  
 ---
  
